@@ -8,3 +8,4 @@
 brightwavebot/brightwavebot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://gist.github.com/brightwavebot/f4a9b39d76fdf1ee14ff429a62aef749
